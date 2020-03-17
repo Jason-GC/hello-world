@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<message id = "001" class = "一班">
+		<name>Alex</name>
+		<gender>female</gender>
+		<age>13</age>
+		<address>北京</address>
+	</message>
+	<message id = "002" class = "二班">
+		<name>Bob</name>
+		<gender>male</gender>
+		<age>16</age>
+		<address>天津</address>
+	</message>
+	<message id = "003" class = "三班">
+		<name>catalina</name>
+		<gender>female</gender>
+		<age>20</age>
+		<address>深圳</address>
+	</message>
+</root>
