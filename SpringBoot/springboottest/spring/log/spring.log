@@ -1,0 +1,95 @@
+2021-03-11 17:35 [main] INFO  com.csx.springboottest.SpringboottestApplication - Starting SpringboottestApplication using Java 1.8.0_251 on LAPTOP-JD9C5KUR with PID 24352 (G:\MyWorkspace\IDEA\SpringBoot\springboottest\target\classes started by Jason in G:\MyWorkspace\IDEA\SpringBoot\springboottest)
+2021-03-11 17:35 [main] DEBUG com.csx.springboottest.SpringboottestApplication - Running with Spring Boot v2.4.3, Spring v5.3.4
+2021-03-11 17:35 [main] INFO  com.csx.springboottest.SpringboottestApplication - No active profile set, falling back to default profiles: default
+2021-03-11 17:35 [main] WARN  org.springframework.boot.context.config.ConfigDataEnvironment - Property 'spring.profiles' imported from location 'class path resource [application.yml]' is invalid and should be replaced with 'spring.config.activate.on-profile' [origin: class path resource [application.yml] - 11:13]
+2021-03-11 17:35 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2021-03-11 17:35 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2021-03-11 17:35 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.43]
+2021-03-11 17:35 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/springBoot] - Initializing Spring embedded WebApplicationContext
+2021-03-11 17:35 [main] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1053 ms
+2021-03-11 17:35 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2021-03-11 17:35 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '/springBoot'
+2021-03-11 17:35 [main] INFO  com.csx.springboottest.SpringboottestApplication - Started SpringboottestApplication in 1.922 seconds (JVM running for 3.054)
+2021-03-11 17:36 [main] INFO  com.csx.springboottest.SpringboottestApplication - Starting SpringboottestApplication using Java 1.8.0_251 on LAPTOP-JD9C5KUR with PID 22252 (G:\MyWorkspace\IDEA\SpringBoot\springboottest\target\classes started by Jason in G:\MyWorkspace\IDEA\SpringBoot\springboottest)
+2021-03-11 17:36 [main] DEBUG com.csx.springboottest.SpringboottestApplication - Running with Spring Boot v2.4.3, Spring v5.3.4
+2021-03-11 17:36 [main] INFO  com.csx.springboottest.SpringboottestApplication - The following profiles are active: dev
+2021-03-11 17:36 [main] WARN  org.springframework.boot.context.config.ConfigDataEnvironment - Property 'spring.profiles' imported from location 'class path resource [application.yml]' is invalid and should be replaced with 'spring.config.activate.on-profile' [origin: class path resource [application.yml] - 11:13]
+2021-03-11 17:36 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8089 (http)
+2021-03-11 17:36 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2021-03-11 17:36 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.43]
+2021-03-11 17:36 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/springBoot] - Initializing Spring embedded WebApplicationContext
+2021-03-11 17:36 [main] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 607 ms
+2021-03-11 17:36 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2021-03-11 17:36 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8089 (http) with context path '/springBoot'
+2021-03-11 17:36 [main] INFO  com.csx.springboottest.SpringboottestApplication - Started SpringboottestApplication in 1.236 seconds (JVM running for 2.034)
+2021-03-11 17:37 [main] INFO  com.csx.springboottest.SpringboottestApplication - Starting SpringboottestApplication using Java 1.8.0_251 on LAPTOP-JD9C5KUR with PID 26348 (G:\MyWorkspace\IDEA\SpringBoot\springboottest\target\classes started by Jason in G:\MyWorkspace\IDEA\SpringBoot\springboottest)
+2021-03-11 17:37 [main] DEBUG com.csx.springboottest.SpringboottestApplication - Running with Spring Boot v2.4.3, Spring v5.3.4
+2021-03-11 17:37 [main] INFO  com.csx.springboottest.SpringboottestApplication - The following profiles are active: dev
+2021-03-11 17:37 [main] WARN  org.springframework.boot.context.config.ConfigDataEnvironment - Property 'spring.profiles' imported from location 'class path resource [application.yml]' is invalid and should be replaced with 'spring.config.activate.on-profile' [origin: class path resource [application.yml] - 11:13]
+2021-03-11 17:37 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8089 (http)
+2021-03-11 17:37 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2021-03-11 17:37 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.43]
+2021-03-11 17:37 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/springBoot] - Initializing Spring embedded WebApplicationContext
+2021-03-11 17:37 [main] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 573 ms
+2021-03-11 17:37 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2021-03-11 17:37 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8089 (http) with context path '/springBoot'
+2021-03-11 17:37 [main] INFO  com.csx.springboottest.SpringboottestApplication - Started SpringboottestApplication in 1.169 seconds (JVM running for 2.102)
+2021-03-11 17:39 [main] INFO  com.csx.springboottest.SpringboottestApplication - Starting SpringboottestApplication using Java 1.8.0_251 on LAPTOP-JD9C5KUR with PID 2556 (G:\MyWorkspace\IDEA\SpringBoot\springboottest\target\classes started by Jason in G:\MyWorkspace\IDEA\SpringBoot\springboottest)
+2021-03-11 17:39 [main] DEBUG com.csx.springboottest.SpringboottestApplication - Running with Spring Boot v2.4.3, Spring v5.3.4
+2021-03-11 17:39 [main] INFO  com.csx.springboottest.SpringboottestApplication - The following profiles are active: dev
+2021-03-11 17:39 [main] WARN  org.springframework.boot.context.config.ConfigDataEnvironment - Property 'spring.profiles' imported from location 'class path resource [application.yml]' is invalid and should be replaced with 'spring.config.activate.on-profile' [origin: class path resource [application.yml] - 11:13]
+2021-03-11 17:39 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8089 (http)
+2021-03-11 17:39 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2021-03-11 17:39 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.43]
+2021-03-11 17:39 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/springBoot] - Initializing Spring embedded WebApplicationContext
+2021-03-11 17:39 [main] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 581 ms
+2021-03-11 17:39 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2021-03-11 17:39 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8089 (http) with context path '/springBoot'
+2021-03-11 17:39 [main] INFO  com.csx.springboottest.SpringboottestApplication - Started SpringboottestApplication in 1.18 seconds (JVM running for 1.943)
+2021-03-11 17:39 [main] INFO  com.csx.springboottest.SpringboottestApplication - Starting SpringboottestApplication using Java 1.8.0_251 on LAPTOP-JD9C5KUR with PID 7940 (G:\MyWorkspace\IDEA\SpringBoot\springboottest\target\classes started by Jason in G:\MyWorkspace\IDEA\SpringBoot\springboottest)
+2021-03-11 17:39 [main] DEBUG com.csx.springboottest.SpringboottestApplication - Running with Spring Boot v2.4.3, Spring v5.3.4
+2021-03-11 17:39 [main] INFO  com.csx.springboottest.SpringboottestApplication - No active profile set, falling back to default profiles: default
+2021-03-11 17:39 [main] WARN  org.springframework.boot.context.config.ConfigDataEnvironment - Property 'spring.profiles' imported from location 'class path resource [application.yml]' is invalid and should be replaced with 'spring.config.activate.on-profile' [origin: class path resource [application.yml] - 11:13]
+2021-03-11 17:39 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2021-03-11 17:39 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2021-03-11 17:39 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.43]
+2021-03-11 17:39 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/springBoot] - Initializing Spring embedded WebApplicationContext
+2021-03-11 17:39 [main] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 612 ms
+2021-03-11 17:39 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2021-03-11 17:39 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '/springBoot'
+2021-03-11 17:39 [main] INFO  com.csx.springboottest.SpringboottestApplication - Started SpringboottestApplication in 1.22 seconds (JVM running for 2.073)
+2021-03-11 17:39 [main] INFO  com.csx.springboottest.SpringboottestApplication - Starting SpringboottestApplication using Java 1.8.0_251 on LAPTOP-JD9C5KUR with PID 22456 (G:\MyWorkspace\IDEA\SpringBoot\springboottest\target\classes started by Jason in G:\MyWorkspace\IDEA\SpringBoot\springboottest)
+2021-03-11 17:39 [main] DEBUG com.csx.springboottest.SpringboottestApplication - Running with Spring Boot v2.4.3, Spring v5.3.4
+2021-03-11 17:39 [main] INFO  com.csx.springboottest.SpringboottestApplication - No active profile set, falling back to default profiles: default
+2021-03-11 17:39 [main] WARN  org.springframework.boot.context.config.ConfigDataEnvironment - Property 'spring.profiles' imported from location 'class path resource [application.yml]' is invalid and should be replaced with 'spring.config.activate.on-profile' [origin: class path resource [application.yml] - 11:13]
+2021-03-11 17:39 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2021-03-11 17:39 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2021-03-11 17:39 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.43]
+2021-03-11 17:39 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/springBoot] - Initializing Spring embedded WebApplicationContext
+2021-03-11 17:39 [main] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 598 ms
+2021-03-11 17:39 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2021-03-11 17:39 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path '/springBoot'
+2021-03-11 17:39 [main] INFO  com.csx.springboottest.SpringboottestApplication - Started SpringboottestApplication in 1.193 seconds (JVM running for 2.02)
+2021-03-11 17:40 [main] INFO  com.csx.springboottest.SpringboottestApplicationTests - Starting SpringboottestApplicationTests using Java 1.8.0_251 on LAPTOP-JD9C5KUR with PID 12876 (started by Jason in G:\MyWorkspace\IDEA\SpringBoot\springboottest)
+2021-03-11 17:40 [main] DEBUG com.csx.springboottest.SpringboottestApplicationTests - Running with Spring Boot v2.4.3, Spring v5.3.4
+2021-03-11 17:40 [main] INFO  com.csx.springboottest.SpringboottestApplicationTests - No active profile set, falling back to default profiles: default
+2021-03-11 17:40 [main] WARN  org.springframework.boot.context.config.ConfigDataEnvironment - Property 'spring.profiles' imported from location 'class path resource [application.yml]' is invalid and should be replaced with 'spring.config.activate.on-profile' [origin: class path resource [application.yml] - 11:13]
+2021-03-11 17:40 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2021-03-11 17:40 [main] INFO  com.csx.springboottest.SpringboottestApplicationTests - Started SpringboottestApplicationTests in 1.5 seconds (JVM running for 2.502)
+2021-03-11 17:40 [main] DEBUG com.csx.springboottest.SpringboottestApplicationTests - >>>>>>>>>>debug
+2021-03-11 17:40 [main] INFO  com.csx.springboottest.SpringboottestApplicationTests - >>>>>>>>>>info
+2021-03-11 17:40 [main] WARN  com.csx.springboottest.SpringboottestApplicationTests - >>>>>>>>>>warn
+2021-03-11 17:40 [main] ERROR com.csx.springboottest.SpringboottestApplicationTests - >>>>>>>>>>error
+2021-03-11 17:40 [SpringContextShutdownHook] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Shutting down ExecutorService 'applicationTaskExecutor'
+2021-03-11 17:46 [main] INFO  com.csx.springboottest.SpringboottestApplication - Starting SpringboottestApplication using Java 1.8.0_251 on LAPTOP-JD9C5KUR with PID 21084 (G:\MyWorkspace\IDEA\SpringBoot\springboottest\target\classes started by Jason in G:\MyWorkspace\IDEA\SpringBoot\springboottest)
+2021-03-11 17:46 [main] DEBUG com.csx.springboottest.SpringboottestApplication - Running with Spring Boot v2.4.3, Spring v5.3.4
+2021-03-11 17:46 [main] INFO  com.csx.springboottest.SpringboottestApplication - The following profiles are active: dev
+2021-03-11 17:46 [main] WARN  org.springframework.boot.context.config.ConfigDataEnvironment - Property 'spring.profiles' imported from location 'class path resource [application.yml]' is invalid and should be replaced with 'spring.config.activate.on-profile' [origin: class path resource [application.yml] - 11:13]
+2021-03-11 17:46 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8089 (http)
+2021-03-11 17:46 [main] INFO  org.apache.catalina.core.StandardService - Starting service [Tomcat]
+2021-03-11 17:46 [main] INFO  org.apache.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.43]
+2021-03-11 17:46 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/springBoot] - Initializing Spring embedded WebApplicationContext
+2021-03-11 17:46 [main] INFO  org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 635 ms
+2021-03-11 17:46 [main] INFO  org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor - Initializing ExecutorService 'applicationTaskExecutor'
+2021-03-11 17:46 [main] INFO  org.springframework.boot.web.embedded.tomcat.TomcatWebServer - Tomcat started on port(s): 8089 (http) with context path '/springBoot'
+2021-03-11 17:46 [main] INFO  com.csx.springboottest.SpringboottestApplication - Started SpringboottestApplication in 1.238 seconds (JVM running for 2.041)

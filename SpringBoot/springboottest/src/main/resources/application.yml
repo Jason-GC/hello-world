@@ -1,0 +1,21 @@
+server:
+  port: 8081
+spring:
+  profiles:
+    active: pro
+
+---
+server:
+  port: 8085
+spring:
+  profiles: pro
+
+person:
+  name: 崔大祥
+  age: 24
+  list01: [1,2,3]
+  list02:
+    - list021
+    - list022
+  map: {k1: v1,k2: {k2k: k2v}}
+
